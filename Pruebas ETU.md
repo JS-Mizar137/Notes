@@ -23,23 +23,25 @@ Fecha: 14/09/2026
 
 ### 4. Observaciones durante la soldadura
 
-El proceso de soldadura para la unión de las piezas se llevó a cabo empleando los parámetros previamente establecidos. Durante el proceso, se realizó un ajuste del offset con el propósito de determinar la posición óptima de enfoque del haz láser sobre la zona de unión.
+Proceso de soldadura
 
-El ajuste del offset modifica la posición focal del haz y, por consecuencia, su tamaño y densidad de potencia sobre la superficie del material. Esta variación influye directamente en la distribución de energía durante el proceso y puede afectar la interacción entre el haz láser y el material, particularmente en la profundidad de penetración obtenida.
+El proceso de soldadura para unir las piezas se realizó utilizando los parámetros establecidos previamente. Durante las pruebas se fue ajustando el offset para encontrar el punto de enfoque adecuado del haz láser sobre la zona de unión.
 
-Asimismo, la velocidad de desplazamiento constituye un parámetro importante dentro del proceso, debido a que determina el tiempo de interacción entre el haz láser y el material. Al reducir la velocidad de desplazamiento, el haz permanece durante un mayor tiempo sobre una determinada zona, incrementando el aporte de energía por unidad de longitud y, por consecuencia, la temperatura alcanzada en el área de interacción.
+El ajuste del offset cambia la posición del punto focal del láser, lo que también modifica el tamaño y la concentración del haz sobre el material. Esto es importante debido a que afecta la forma en la que se distribuye la energía y, por lo tanto, puede influir en la profundidad de penetración de la soldadura.
 
-La combinación de la posición focal, la potencia del láser y la velocidad de desplazamiento determina las condiciones térmicas presentes durante la soldadura. Por lo tanto, un ajuste adecuado de estos parámetros permite controlar tanto la penetración como las características geométricas y superficiales de la unión.
+Otro parámetro importante fue la velocidad de desplazamiento. Al trabajar con una velocidad menor, el láser permanece más tiempo sobre una misma zona, aumentando la cantidad de energía que se concentra en esa área. Como consecuencia, también aumenta la temperatura alcanzada durante el proceso.
+
+Por esta razón, la posición del foco, la potencia del láser y la velocidad de desplazamiento deben considerarse en conjunto, ya que los cambios en estos parámetros afectan directamente la penetración y el resultado final de la soldadura.
 
 Coloración de la soldadura
 
-Durante las pruebas realizadas también se observó una coloración característica de tonalidad tornasol en la superficie de la soldadura. Este fenómeno puede estar relacionado con las condiciones térmicas alcanzadas durante el proceso.
+Durante las pruebas también se pudo observar una coloración de tipo tornasol sobre la superficie de la soldadura. Esta coloración está relacionada principalmente con las condiciones de temperatura que se generan durante el proceso.
 
-En materiales susceptibles a la oxidación, el incremento de temperatura puede favorecer la formación de capas de óxido sobre la superficie. Estas capas modifican la interacción de la luz con el material y pueden producir diferentes tonalidades visibles, fenómeno conocido como coloración térmica o heat tint.
+Cuando el material alcanza temperaturas elevadas, puede producirse una oxidación superficial. La formación de estas capas de óxido modifica la forma en que la luz se refleja sobre la superficie, dando como resultado diferentes tonalidades de color, conocidas como heat tint o coloración térmica.
 
-En este sentido, la coloración observada no debe atribuirse exclusivamente a la concentración del haz, sino a la combinación de las condiciones de procesamiento que determinan el aporte y la distribución de energía sobre el material. En particular, una menor velocidad de desplazamiento puede incrementar el aporte térmico y favorecer la aparición de estas tonalidades superficiales.
+En este caso, la coloración no depende únicamente de la concentración del haz, sino de la combinación de los diferentes parámetros utilizados durante la soldadura. Al disminuir la velocidad de desplazamiento, el láser permanece más tiempo en la misma zona y aumenta el aporte de energía, lo que puede favorecer la aparición de estas tonalidades.
 
-Por lo tanto, el ajuste del offset y de la velocidad de desplazamiento resulta fundamental para establecer las condiciones adecuadas de soldadura, ya que ambos parámetros influyen en la distribución de energía, la temperatura alcanzada, la penetración y las características superficiales de la unión obtenida.
+Por lo tanto, el ajuste del offset y de la velocidad de desplazamiento fue importante para encontrar las condiciones adecuadas de soldadura, ya que estos parámetros influyen en la distribución de energía, la temperatura alcanzada, la penetración y el aspecto final de la unión.
 
 Resultado final:
 
