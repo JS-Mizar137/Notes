@@ -1,5 +1,14 @@
 ## MUTSUTECH
-Error en la lampara de ingnition.
+>[!NOTE]
+>Ma maquina no esta funcional.
+>
+>En 3 ocasiones se han cambiado las lamparás funciona unas horas y vuelve la falla
+>
+>Ya se han cambiado varios componentes por recomendación de Vision Japón aun aparece la falla
+
+<img width="487" height="311" alt="image" src="https://github.com/user-attachments/assets/51fdb669-51e2-4130-b653-238ca629d7f8" />
+
+[Falla en vision](https://github.com/user-attachments/assets/b7ebcca4-f2f2-4557-b4a3-dc16760f5e53)
 
 ---
 
