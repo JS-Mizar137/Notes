@@ -20,3 +20,4 @@ Fecha: 27/10/2026
 - **Grafico Galvanómetro:** ♾️.
 - **Ancho de galvanómetro(mm):** 0.8
 - **Frecuencia galvanómetro(Hz)**43.
+- 
