@@ -3,7 +3,7 @@
 ## Laser Welding Machine.
 
 Machine model: **XH-LW-1500W**
-Series Numberr: ***DN-26020699**
+Series Numberr: **DN-26020699**
 
 | Model | AS-12 | BS-16 | BS-20 | CS-12 | CS-16 | C | Cutting Nuzzle |
 |---|---|---|---|---|---|---|---|
