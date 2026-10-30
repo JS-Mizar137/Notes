@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inventario de Refacciones</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="header">
+    <div>
+      <h1>📦 Inventario de Refacciones</h1>
+      <p>Consulta de existencias y productos</p>
+    </div>
+    <span class="status">● Sistema en línea</span>
+  </header>
+
+  <main class="container">
+
+    <section class="dashboard">
+      <div class="stat-card">
+        <span>Total de refacciones</span>
+        <strong id="totalProductos">0</strong>
+      </div>
+      <div class="stat-card">
+        <span>Unidades disponibles</span>
+        <strong id="totalUnidades">0</strong>
+      </div>
+      <div class="stat-card">
+        <span>Productos agotados</span>
+        <strong id="agotados">0</strong>
+      </div>
+    </section>
+
+    <section class="catalogo">
+      <h2>Buscar refacciones</h2>
+
+      <div class="filters">
+        <input
+          type="search"
+          id="buscador"
+          placeholder="Buscar por código o nombre..."
+        >
+
+        <select id="filtroCategoria">
+          <option value="">Todas las categorías</option>
+        </select>
+      </div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Código</th>
+              <th>Refacción</th>
+              <th>Categoría</th>
+              <th>Existencias</th>
+              <th>Estado</th>
+            </tr>
+          </thead>
+          <tbody id="tablaProductos"></tbody>
+        </table>
+      </div>
+
+      <p id="sinResultados" class="empty" hidden>
+        No se encontraron refacciones.
+      </p>
+
+      <p class="nota">
+        Las cantidades mostradas corresponden al último inventario actualizado.
+      </p>
+    </section>
+
+  </main>
+
+  <footer>
+    Inventario de Refacciones · Catálogo de consulta
+  </footer>
+
+  <script src="productos.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
