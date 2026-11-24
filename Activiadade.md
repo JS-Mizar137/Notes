@@ -1,11 +1,11 @@
-# Pendientes
+## Lista de pendientes
 
-- [ ] Lista de consumibles
-- [ ] Manual de maquinas
-- ✅ Curso de glen
-- [ ] Pruebas de ETU.
-         - quedan pendientes mas pruebas (espera de cliente).
-- [ ] Invenario de Maquinaria.
-         - Aun quedan 2 maquians por realizar inventario (Reparadoras de moldes).                    
-- [ ] Revisar y hacer notas acerca del correo de vision.
-- [ ] Terminar las pruebas de marcado en acero inoxidable.
+- [ ] **Lista de consumibles**
+- [ ] **Manuales de máquinas**
+- [x] **Curso de Glen**
+- [ ] **Pruebas de ETU**
+  - Quedan pendientes más pruebas (en espera del cliente).
+- [ ] **Inventario de maquinaria**
+  - Quedan 2 máquinas pendientes de inventariar (reparadoras de moldes).
+- [ ] **Revisar y elaborar notas acerca del correo de visión**
+- [ ] **Terminar las pruebas de marcado en acero inoxidable**
