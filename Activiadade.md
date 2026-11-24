@@ -8,4 +8,4 @@
 - [ ] **Inventario de maquinaria**
   - Quedan 2 máquinas pendientes de inventariar (reparadoras de moldes).
 - [ ] **Revisar y elaborar notas acerca del correo de visión**
-- [ ] **Terminar las pruebas de marcado en acero inoxidable**
+- [x] **Terminar las pruebas de marcado en acero inoxidable**
